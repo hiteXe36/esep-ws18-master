@@ -1,0 +1,28 @@
+Input: 'Interruptservice'
+ - lightBarrier1
+ - lightBarrier2
+ - lightBarrier3
+ - lightBarrier4
+ - lightBarrier5
+ - switchStatus
+ - slideStatus
+ - emergencyButtonPressed
+ - startButtonPressed
+ - stopButtonPressed
+ - resetButtonPressed
+ - metalDetector
+ - heightSensor
+
+Output:
+ - motorForward
+ - motorBackward
+ - motorSlow
+ - motorStop
+ - lightRedOn
+ - lightYellowOn
+ - lightGreenOn
+ - switchOpen
+ - startLED
+ - resetLED
+ - errorLight1
+ - errorLight2

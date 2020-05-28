@@ -1,0 +1,12 @@
+- MotorStart(Direction,Speed)
+- MotorStop()
+- LampOn(Color) //Frequenz im AmpelController
+- LampOff(Color)
+- gateOpen()
+- gateClose()
+- LED_On(LED)
+- LED_Off(LED)
+- HeightSensorStart()
+- HeightSensorStop()
+- MetalSensorStart
+- MetalSensorStop
